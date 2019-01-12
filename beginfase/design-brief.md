@@ -1,0 +1,12 @@
+# Design Brief
+
+> A **Design brief** is a document for a design project developed by a person or team\(the'designer'or'designteam'\) in consultation with the'client'.They outline the deliverables and scope of the project including any products or works\(functionand aesthetics\), timing and budget.\(Wikipedia2018\)
+
+Door een design brief te maken kregen wij een beter beeld van het probleem. Zo kunnen we het probleem helder in kaart brengen en beter begrijpen. Ook hebben we gekeken naar zo veel mogelijk betrokkene en hebben we onderzoek gedaan naar de stakeholders en hun behoeftes. Ook hebben we de context in kaart gebracht en zijn we begonnen met de eerste opstelling van de design challenge. Hieronder is de gehele designbrief te lezen.
+
+```text
+<iframe src="https://drive.google.com/embeddedfolderview?id=FOLDERID#list" width="600" height="500" frameborder="0"></iframe>
+```
+
+{% file src="../.gitbook/assets/designbrief\_v2.pdf" caption="Design brief" %}
+
