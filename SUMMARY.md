@@ -28,7 +28,7 @@
     * [5. Test](idee-ontwikkeling/design-sprint/5.-test.md)
   * [Flow chart](idee-ontwikkeling/flowchart.md)
   * [Methods](idee-ontwikkeling/methods/README.md)
-    * [Inspiratieboard](idee-ontwikkeling/methods/inspiratieboard.md)
+    * [Inspiration wall](idee-ontwikkeling/methods/inspiratieboard.md)
     * [Proof of concept](idee-ontwikkeling/methods/proof-of-concept.md)
     * [Programma van eisen](idee-ontwikkeling/methods/programma-van-eisen.md)
 * [4. Ontwerp](4.-ontwerp/README.md)

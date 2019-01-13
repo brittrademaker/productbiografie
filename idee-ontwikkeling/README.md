@@ -1,6 +1,6 @@
 # 3. Idee ontwikkeling
 
-Na de onderzoeksfase zijn we met het vak Designing with Purpose begonnen met een design sprint van twee weken. Deze design sprint vormt een groot onderdeel van de idee ontwikkelings fase en zal hier dan ook uitgebreid besproken worden.
+Na de onderzoeksfase zijn we met het vak Designing with Purpose begonnen met een [**design sprint**](design-sprint/) van twee weken. Deze design sprint vormt een groot onderdeel van de idee ontwikkelings fase en zal hier dan ook uitgebreid besproken worden.
 
 ## Inhoud
 
