@@ -4,9 +4,9 @@ Tijdens een van de werkgroepen hebben we de design briefs van elkaar besproken e
 
 ## Feedback punten
 
-* Pagina 1: Gebruik ipv de benaming: app, een interactieve digitale applicatie. Want dan kan je meerdere kanten op, en zit je niet vast aan één bepaald product. 
-* Pagina 2: Het probleem moest verder naar boven geschoven worden. Het rode stukje boven aan zetten en vervolgens verder gaan met de stakeholders.
-* Pagina 5: Extra onderzoek tablet gebruik ouderen zodat er echt harde bewijzen zijn over deze beperking.
-* * 
+* Pagina 1: Gebruik in plaats van de benaming: app, interactieve digitiale applicatie. Want dan kan je meerdere kanten op en zit je niet vast aan een bepaald product.
+* Pagina 2: Het probleem moest verder naar boven geschoven worden. Het rode stukje onderaan de pagina naar boven zetten en daarna verder gaan met de stakeholders.
+* Pagina 5: Extra onderzoek doen naar tablet gebruik onder ouderen zodat er echt harde bewijzen zijn over deze beperking.
+
 {% file src="../.gitbook/assets/designbrief\_v1.pdf" caption="Design brief V1" %}
 
