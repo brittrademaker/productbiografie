@@ -22,11 +22,11 @@ Aan de hand van de analyse fase hebben wij een eerste opzet gemaakt voor het pro
 {% endtab %}
 
 {% tab title="Familie, vrienden en mantelzorgers" %}
-### 1. Het product moet ervoor zorgen dat familie en vrienden een motiverende rol spelen in het aansporen/helpen bij bewegen.
+### 1. Het product moet ervoor zorgen dat familie en vrienden een motiverende rol spelen in het aansporen/helpen bij bewegen
 
-### 2. Het product moet te gebruiken zijn door ouderen, mantelzorgers, familie en vrienden zodat iedereen er gebruik van kan maken\(mochtende ouderen niet genoeg kennis hebben over tablets etc.\).
+### 2. Het product moet te gebruiken zijn door ouderen, mantelzorgers, familie en vrienden zodat iedereen er gebruik van kan maken\(mochten de ouderen niet genoeg kennis hebben over tablets etc.\) 
 
-### 3. Het product moet controleerbaar zijn door familie/vrienden/mantelzorgers om bij te dragen aan een veilig gevoel voor ouderen.
+### 3. Het product moet controleerbaar zijn door familie/vrienden/mantelzorgers om bij te dragen aan een veilig gevoel voor ouderen
 {% endtab %}
 {% endtabs %}
 

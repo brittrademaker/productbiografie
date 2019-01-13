@@ -1,2 +1,0 @@
-# Wat het ziekenhuis doen?
-
