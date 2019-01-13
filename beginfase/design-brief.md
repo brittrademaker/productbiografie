@@ -6,7 +6,7 @@ Door een design brief te maken kregen wij een beter beeld van het probleem. Zo k
 
 ## Kaders/keuzes
 
-* Ouderen boven de 65+ die risico lopen op functieverlies
+* 65-plussers die risico lopen op functieverlies
 * Familie, vrienden, mantelzorgers die de ouderen kunnen helpen
 * Na een operatie
 * Gebruik voor buiten het ziekenhuis
