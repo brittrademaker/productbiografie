@@ -2,7 +2,7 @@
 
 * [Intro](README.md)
 * [1. Beginfase](beginfase/README.md)
-  * [Peer feedback](beginfase/feedbacksessies.md)
+  * [Peer feedback](beginfase/peer-feedback.md)
   * [Design Brief](beginfase/design-brief.md)
 * [2. Analyse](2.-analyse.md)
 * [3. Idee ontwikkeling](3.-idee-ontwikkeling.md)
