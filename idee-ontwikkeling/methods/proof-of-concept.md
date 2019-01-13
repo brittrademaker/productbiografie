@@ -1,5 +1,5 @@
 ---
-description: Demonstrate the feasibility of your idea or design
+description: Demonstrate the feasibility of your idea or design.
 ---
 
 # Proof of concept
