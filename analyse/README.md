@@ -4,8 +4,6 @@ In de onderzoeksfase hebben wij veel onderzoek gedaan naar het probleem. Wij had
 
 ## Onderzoeksvragen
 
-Hoe ontstaat functieverlies? 
-
 * Hoe onstaat functieverlies?
 
   * Welke factoren hebben invloed op functieverlies
