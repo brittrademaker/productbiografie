@@ -1,4 +1,4 @@
-# Design Brief
+# Design brief
 
 > A **Design brief** is a document for a design project developed by a person or team\(the'designer'or'designteam'\) in consultation with the'client'.They outline the deliverables and scope of the project including any products or works\(functionand aesthetics\), timing and budget.\(Wikipedia2018\)
 

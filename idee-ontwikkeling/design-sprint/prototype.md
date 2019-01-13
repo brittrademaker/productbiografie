@@ -1,6 +1,6 @@
-# 4. Prototype
+# 4. Lo-Fi prototype 1.0
 
-Na aanleiding van mijn [**conceptkeuze**](3.-decide.md#concept) ****heb ik de eerste Lo-Fi schetsen gemaakt om mee te gaan testen tijdens de eerste peerfeedback ronde in de groep. 
+Na aanleiding van mijn [**conceptkeuze**](decide.md#concept) ****heb ik de eerste Lo-Fi schetsen gemaakt om mee te gaan testen tijdens de eerste peerfeedback ronde in de groep. 
 
 ![1.0 Home](../../.gitbook/assets/1.0-home_patie-nt.png)
 

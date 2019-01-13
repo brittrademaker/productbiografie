@@ -1,4 +1,4 @@
-# Programma van eisen
+# Programma van eisen 1.0
 
 Aan de hand van de analyse fase hebben wij een eerste opzet gemaakt voor het programma van eisen. Deze eisen zijn gebasseerd op de uitkomsten van de [**onderzoeksmethodes**](./) en de [**onderzoeksvragen**](../onderzoeksvragen/).
 
