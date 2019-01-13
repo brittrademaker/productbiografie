@@ -6,10 +6,8 @@ Door een design brief te maken kregen wij een beter beeld van het probleem. Zo k
 
 ## Kaders/keuzes
 
-1. Ouderen boven de 65+ die risico lopen op functieverlies
-2. Familie, vrienden en mantelzorgers die de ouderen kunnen helpen
-3. Toepassing voor na een operatie
-4. Gebruik buiten het ziekenhuis
-5. 6. 
+* Hoi
+* Doei
+
 {% file src="../.gitbook/assets/designbrief\_v2.pdf" caption="Design brief V2" %}
 
