@@ -47,4 +47,5 @@
 * [5. Validatie](5.-validatie/README.md)
   * [Usability testing](5.-validatie/usability-testing.md)
   * [Product quality review](5.-validatie/product-quality-review.md)
+  * [Style test](5.-validatie/style-test.md)
 
