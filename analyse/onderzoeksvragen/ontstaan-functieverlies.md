@@ -1,2 +1,16 @@
 # Hoe onstaat functieverlies?
 
+Uit onderzoek van Plusonline \(2017\) is gebleken dat het goed is om zo snel mogelijk na een operatie weer in beweging te komen. Door de hele dag in bed te blijven liggen, neemt de spiermassa in rap tempo af, en daarmee ook de spierkracht en conditie \(A. Severs, Plusonline, 2017\). Na één dag in bed liggen ben je al 5 procent van je spierkracht kwijt. Na een week op bed kost het moeite om uit een stoel overeind te komen. Eenmaal verloren spiermassa kan niet snel weer worden opgebouwd, zeker niet als je al wat ouder bent.
+
+## De strijd tegen functieverlies
+
+Hoe kan een digitale oplossing, die ervoor zorgt dat ouderen boven de 65 jaar die risico lopen op functieverlies, helpen om meer te gaan bewegen, waarbij de verzorgers/familie een motiverende rol spelen in het opbouwen van vertrouwen in eigen kunnen.
+
+## De grote boosdoener: bedrust
+
+Een deel van de 65-plussers krijgt na acute ziekenhuisopname te maken met beperkingen in het dagelijks functioneren, gedefinieerd als ‘functieverlies’ \(Buurman en de Rooij, 2015\). Gemiddeld lopen patiënten in het ziekenhuis maar 4-7 minuten per dag en liggen ze de rest van de tijd in bed. Bedrust is echter desastreus voor ouderen. Gezonde ouderen die tien dagen op bed blijven en goede voeding krijgen, verliezen bijvoorbeeld al 10-15 procent van hun spiermassa en komen met moeite overeind. Minder dan de dagelijkse norm van 30 minuten bewegen, draagt ook bij aan een verhoogd risico op functieverlies. Volgens Buurman en de Rooij is het eenmaal opgelopen functieverlies lastig te herstellen, vroegtijdig mobiliseren levert daarom belangrijke gezondheidswinst op.
+
+## Niet iedereen is even vatbaar voor functieverlies
+
+Niet elke patiënt hee! dezelfde conditie, hierdoor zullen er ouderen zijn die een betere conditie hebben en dus minder vatbaar zullen zijn voor functieverlies. Daarom zal de snelheid en hoeveelheid verlies van de spiermassa per patiënt verschillen. Zo houdt mijn oma er bijvoorbeeld van om elke dag even naar de supermarkt te lopen voor haar dagelijkse boodschap, zij zal meer bewegen dan iemand waarvoor de boodschappen gehaald worden \(Rademaker, 2018\). Daarbij verschilt het ook nog eens per ziekenhuis hoeveel er bewogen kan worden. In sommige ziekenhuizen lopen patiënten meer dan het gemiddelde. Een voorbeeld hiervan is het project “Beter Bewegen”, daarmee wil het AMC een ‘beweegvriendelijk’ ziekenhuis maken en besteedt daarom aandacht aan activatie van patiënten. Het AMC doet dit door patiënten schoenen of gympen aan te laten trekken in plaats van pantoffels. Conditie alleen is dus niet voldoende is om aan te geven wie er precies risico lopen op functieverlies, factoren zoals beweging in het ziekenhuis spelen hierbij ook een rol.
+

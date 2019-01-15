@@ -10,3 +10,5 @@
 
 {% page-ref page="digitale-ouderen.md" %}
 
+{% page-ref page="oudere-vriendelijke-ui.md" %}
+
