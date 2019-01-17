@@ -192,24 +192,24 @@ De titeltjes in het overzicht. Zorgen dat het lijkt op tabbladen. Niet uitlijnen
 
 **Waar had u moeite mee?**
 
-Indicatie dat je begint en eindigt of apart neer zetten op de home pagina. Wat vond je van deze activiteit?
+Indicatie dat je begint en eindigt of apart neer zetten op de home pagina. "Wat vond je van deze activiteit?"
 
 **Wat zou u nog veranderen?**
 
 Uitleg bij het poppetje, waarom gevaren zones? 30 % beter dat je dat bij de knie kan zetten of je doet nog niet genoeg. koppelen aan je arm.
 
-**Zou u uw gevoel bij de activiteit willen doorspelen naar uw familie/vrienden**
+**Zou u uw gevoel bij de activiteit willen doorspelen naar uw familie/vrienden zodat ze u zouden kunnen helpen waar u moeite bij heeft?**
 
-**zodat ze u zouden kunnen helpen waar u moeite bij heeft?**
-
-Zelf vragen doen ze niet, vaak zeggen hoeft niet bij helpen. De drempel is erg hoog. De app moet wel de drempel lager zetten. Ik wil hulp van : familie of vrienden. 
+Zelf vragen doen ze niet, vaak zeggen ze "ik heb geen hulp nodig". De drempel is erg hoog. De app moet wel de drempel lager zetten. Ik wil hulp van : familie of vrienden. 
 
 **Zouden uw familie/vrienden te hulp schieten als ze zien dat u ergens moeite mee hebt?**
 
-Ja denk het wel 
-
-**Heeft u nog aanvullende tips?**  
+Ja denk het wel.  
 
 
 ## Uitkomsten
+
+Een punt wat steeds terug kwam uit de test en tijdens de presentatie was dat de tabs leken op kopjes die horen bij de tekst eronder omdat ze uitlijnen met de tekst eronder. 
+
+![](../../.gitbook/assets/schermafbeelding-2019-01-17-om-20.54.13.png)
 
