@@ -8,7 +8,7 @@ De homepagina. Hier kan de patiënt zien wat voor beweging er vandaag al is geda
 
 ![](../../.gitbook/assets/1.0-home_patie-nt.png)
 
-## **2.0 Kies acitivteit**
+## **2.0 Kies activiteit**
 
 Kies een activiteit. De gebruiker kan hier schillende dagelijkse activiteiten kiezen. Zijn/haar meest recente activiteiten komen hier direct te staan. Het gaat hierbij om basis activiteiten die functieverlies tegen kunnen gaan. ****Er kan ook zelf een activiteit worden toegevoegd \(nog niet zichtbaar in de schets nu\).
 
