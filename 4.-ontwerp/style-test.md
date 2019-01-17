@@ -1,4 +1,4 @@
-# Style test
+# Iconen test
 
 ## Iconen
 
@@ -6,13 +6,11 @@ In ons oude prototype hebben we twee verschillende soorten sets met iconen gebru
 
 ### Iteratie n.a.v onderzoek
 
-Nadat we hebben gekozen voor de gevulde iconen hebben we nogmaals een iteratie gedaan. Uit onderzoek bleek namelijk dat donkere kleuren goed zichtbaar zijn voor ouderen en kleuren die weinig contrast hebben niet. Hierdoor kwamen wij tot de conclusie, dat in deze gedetailleerde iconen het belangrijk is dat de buitenkant \(outline\) een groot contrast heeft met de binnenkant. Hierom hebben we gekozen voor een zwarte outline. 
+Nadat we hebben gekozen voor de gevulde iconen hebben we nogmaals een iteratie gedaan. Dit hebben we voor gelegd bij tien verschillende ouderen. Uit deze test is gebleken dat het overzicht met blauwe kleuren beter zichtbaar is. Door het hoge contrast in kleur is dit beter zichtbaar en duidelijker voor ouderen. 
 
-## Kleurenpallet
+![](../.gitbook/assets/schermafbeelding-2019-01-17-om-19.19.39.png)
 
-Na het testen hebben we nog een tweede versie gemaakt que kleuren pallet. Dit hebben we voor gelegd bij tien verschillende ouderen. Uit deze test is gebleken dat het overzicht met blauwe kleuren beter zichtbaar is. Door het hoge contrast in kleur is dit beter zichtbaar en duidelijker voor ouderen. 
+We kwamen hierdoor tot de conclusie, dat in deze gedetailleerde iconen het belangrijk is dat de buitenkant \(outline\) een groot contrast heeft met de binnenkant. Hierom hebben we gekozen voor een zwarte outline. 
 
-![](../.gitbook/assets/activiteiten.png)
 
-![](../.gitbook/assets/activiteiten%20%281%29.png)
 

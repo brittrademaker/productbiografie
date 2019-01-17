@@ -45,7 +45,7 @@
   * [Moodboard](4.-ontwerp/moodboard.md)
   * [Styleguide](4.-ontwerp/styleguide.md)
   * [Design pattern search](4.-ontwerp/design-pattern-search.md)
-  * [Style test](4.-ontwerp/style-test.md)
+  * [Iconen test](4.-ontwerp/style-test.md)
 * [5. Validatie](5.-validatie/README.md)
   * [Usability testing](5.-validatie/usability-testing.md)
   * [Product quality review](5.-validatie/product-quality-review.md)
