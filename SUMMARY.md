@@ -42,6 +42,7 @@
   * [High-Fi prototype 2.0](4.-ontwerp/high-fi-prototype-2.0/README.md)
     * [Aanpassingen](4.-ontwerp/high-fi-prototype-2.0/aanpassingen.md)
     * [Test](4.-ontwerp/high-fi-prototype-2.0/test.md)
+    * [Iteratie Hi-FI prototype 2.0](4.-ontwerp/high-fi-prototype-2.0/iteratie-hi-fi-prototype-2.0.md)
   * [Moodboard](4.-ontwerp/moodboard.md)
   * [Styleguide](4.-ontwerp/styleguide.md)
   * [Design pattern search](4.-ontwerp/design-pattern-search.md)

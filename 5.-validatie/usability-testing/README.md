@@ -4,5 +4,7 @@ In het usability lab hebben we getest met de versie [Hi-Fi prototype 1.0](../../
 
 ## Gaze plot
 
+{% file src="../../.gitbook/assets/gaze-plots.pdf" caption="Alle Gaze plots" %}
 
+{% file src="../../.gitbook/assets/heat-maps.pdf" caption="Alle Heatmaps" %}
 
