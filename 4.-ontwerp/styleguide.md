@@ -1,6 +1,6 @@
 # Styleguide
 
-Aan de hand van het laatste design in het Hi-Fi prototype 1.0 en Hi-Fi prototype 2.0 hebben wij een styleguide gemaakt met de kleuren, typografie en buttons. Per onderdeel kunt u hieronder nog een uitgebreidere onderbouwing lezen. Meer informatie over de [**iconografie**](iconografie.md) binnen de app kunt u apart lezen omdat hier een uitgebreid proces achter zit. 
+Aan de hand van het laatste design in het Hi-Fi prototype 1.0 en Hi-Fi prototype 2.0 hebben wij een styleguide gemaakt met de kleuren, typografie en buttons. Per onderdeel kunt u hieronder nog een uitgebreidere onderbouwing lezen. Meer informatie over de [**iconografie**](style-test.md) binnen de app kunt u apart lezen omdat hier een uitgebreid proces achter zit. 
 
 ## Kleurgebruik
 
