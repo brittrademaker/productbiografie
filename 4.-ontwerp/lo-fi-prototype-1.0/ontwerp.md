@@ -1,6 +1,8 @@
 # Ontwerp
 
-> [https://invis.io/N8P0UFXUTQW](https://invis.io/N8P0UFXUTQW)
+In het Lo-Fi prototype 2.0 hebben we aanpassing gedaan n.a.v de [**test**](../high-fi-prototype-1.0/test.md) ****uitkomsten. Links ziet u Lo-Fi prototype 1.0 en rechts ziet u de iteratie. 
+
+> [https://xd.adobe.com/view/bfb76b8c-2d5c-40cb-506c-fe7bd257a333-c986/](https://xd.adobe.com/view/bfb76b8c-2d5c-40cb-506c-fe7bd257a333-c986/)
 
 ## 1.0 Home
 
@@ -24,8 +26,6 @@ Het was vrij verwarrend dat er kruisjes stonden in plaats van iconen. Hierdoor w
 
 De silder van de tijd was ingewikkeld. Je had voorheen twee manieren waarop je de tijd kon invullen. Uiteindelijk hebben we ervoor gekozen om het op dezelfde manier de toen als IOS: een spinner. Bovenin staat de tijd in het blauw in minuten en uren.
 
->
-
 ![](../../.gitbook/assets/2.1-activiteit_tijd_patie-nt.png)
 
 ## 4.0 Gevoel
@@ -43,8 +43,6 @@ We hebben in deze versie placeholder iconen vervangen voorbeeld iconen toegevoeg
 Om te zorgen dat oudere de kleine hint van 70-76 en de blauwe activiteit niet over het hoofd zien hebben we een extra scherm toegevoegd met een bevestiging dat je activiteit is toegevoegd. De gebruiker ziet nu eerst dat de activiteit succesvol is toegevoegd en kan dan terugkeren naar het overzicht.
 
 ![](../../.gitbook/assets/2.3-toegevoegd.png)
-
-![](../../.gitbook/assets/3.0-activiteit_toegevoegd_patie-nt.png)
 
 ## 6.0 Home verzorger
 
