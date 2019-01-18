@@ -15,7 +15,7 @@ Deze risico analyse maken we om de grooste risico's \(hopelijk\) te kunnen verhe
     <tr>
       <td style="text-align:left">1</td>
       <td style="text-align:left">De app zal niet gebruikt worden.</td>
-      <td style="text-align:left">Laag</td>
+      <td style="text-align:left">hoog</td>
       <td style="text-align:left">Onder de 65- tot 75-jarigen zei 64 procent van de ondervraagden actief
         te zijn geweest op sociale media in de drie maanden voorafgaand aan het
         onderzoek.</td>
@@ -43,7 +43,7 @@ Deze risico analyse maken we om de grooste risico's \(hopelijk\) te kunnen verhe
     <tr>
       <td style="text-align:left">5</td>
       <td style="text-align:left">De kleur / lettergrote in de app is onduidelijk / te klein</td>
-      <td style="text-align:left">Laag</td>
+      <td style="text-align:left">Hoog</td>
       <td style="text-align:left">
         <p>A minimum of 12 point text on 14 points of leading is a good rule of thumb,
           although exact sizes may vary depending on the typeface that you choose.
