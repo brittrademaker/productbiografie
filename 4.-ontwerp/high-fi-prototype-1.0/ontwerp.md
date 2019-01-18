@@ -30,33 +30,49 @@ Als de gebruiker op "bewerk gegevens" heeft geklikt dan kan hij/zij de gegevens 
 
 ## 4.0 Activiteit toevoegen
 
+Er worden 6 recente acitiviteiten getoond voor de gebruiker. Dit gaat op basis van de activiteiten die door jou het meest worden gedaan. In eerste instatie worden en random 6 activiteiten laten zien. Het is ook altijd mogelijk om een overieg activiteit toe te voegen mocht jouw activiteit er niet bij staan. 
+
 ![](../../.gitbook/assets/4.0-stap-1-activiteit-toevoegen%20%281%29.png)
 
 ## 4.1 Activiteit toevoegen
+
+Hier kan de gebruiker kiezen uit verschillende activiteiten die door de app al gegenereerd zijn. Mocht de app echt gemaakt worden zouden wij deze lijst nog graag uitbreiden met activiteiten. Als hier de activiteit van de gebruiker niet tussen staat kan hij/zij altijd de activiteit zelf nog toevoegen door middel van het invulveld onderaan de pagina. 
 
 ![](../../.gitbook/assets/4.1-stap-1-activiteit-toevoegen-custom.png)
 
 ## 5.0 Activiteit geselecteerd
 
+Als er een activiteit geselecteerd word dan wordt het blok groen om meer nadruk te leggen op de geselecteerde keuze. Ook komt de keuze en het icoon rechts van de pagina in het stappenplan te staan. De knop veranderd ook van de grijze disabled state naar de roze primaire actie state om te laten zien dat de gebruiker nu verder kan. Door de roze kleur laten we de volgende stap even extra opvallen. 
+
 ![](../../.gitbook/assets/screenshot-2019-01-18-at-12.40.59.png)
 
 ## 5.1 Activiteit toegevoegd
+
+De nieuwe toegevoegde acitiviteit is gelijk geselecteerd omdat deze net is aangemaakt door de gebruiker. Er komt een blokje bij de recente activiteiten van de gebruiker. Er kunnen maximaal 9 blokken op 1 pagina inclusief de "overige activiteit toevoegen" knop. 
 
 ![](../../.gitbook/assets/5.1-stap-1-activiteit-toevoegen-custom-active.png)
 
 ## 6.0 Tijd
 
+Hier geeft de gebruiker aan hoelang de activiteit geduurd heeft. In eerste instantie staat er 0 minuten maar zodra de gebruiker de spinner beweegt komt er in het blauw het aantal uur en minuten te staan.
+
 ![](../../.gitbook/assets/6.0-stap-2-tijd.png)
 
 ## 7.0 Gevoel
+
+De gebruiker vult hier in hoe hij/zij zich voelde bij de uitgekozen activiteit. Er is gekozen voor smileys om uit te kiezen zodat de gebruiker niets hoeft te typen op de iPad en visueel een keuze kan maken tussen emoties. Het is zo simpeler en sneller.
 
 ![](../../.gitbook/assets/7.0-stap-3-gevoel.png)
 
 ## 8.0 Goevoel geselecteerd 
 
+De gebruiker kan een gevoel selecteren door op de smiley of het woord te klikken. Als ere en emotie is geselecteerd kan hij/zij door naar de volgende stap of nog de optie help aanvinken. 
+
 ![](../../.gitbook/assets/8.0-stap-3-gevoel-selected.png)
 
 ## 9.0 Hulp gevraagd
+
+Het is mogelijk om de hulp functie aan de vinken. Hierdoor laat je je familie en vrienden via de app weten dat je daar hulp bij zou willen. Zij kunnen dit zien op hun homepagina met acitiviteit en lichaamsgesteldheid van de patiënt. Het is ook mogelijk om je voldaan te voelen bij een activiteit maar toch hulp te willen de volgende keer.
 
 ![](../../.gitbook/assets/9.0-stap-3-gevoel-selected-help.png)
 
