@@ -44,7 +44,7 @@
     * [Ontwerp](4.-ontwerp/high-fi-prototype-1.0/ontwerp.md)
     * [Test](4.-ontwerp/high-fi-prototype-1.0/test.md)
     * [Usability test](4.-ontwerp/high-fi-prototype-1.0/usability-testing/README.md)
-      * [Test](4.-ontwerp/high-fi-prototype-1.0/usability-testing/testplan.md)
+      * [Testplan](4.-ontwerp/high-fi-prototype-1.0/usability-testing/testplan.md)
   * [High-Fi prototype 2.0](4.-ontwerp/high-fi-prototype-2.0/README.md)
     * [Aanpassingen](4.-ontwerp/high-fi-prototype-2.0/aanpassingen.md)
     * [Test](4.-ontwerp/high-fi-prototype-2.0/test.md)
