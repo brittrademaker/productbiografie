@@ -10,11 +10,13 @@ De gaze plots hebben ons erg geholpen om te kijken of de hierarchie in onze pagi
 
 ### Activiteit toevoegen
 
-Dit zijn gaze plots van twee verschillende testers \(links en rechts\).
+Dit zijn gaze plots van twee verschillende testers \(links en rechts\). Uit deze test is gebleken dat de knop die "disabled" is ook wordt overgeslagen. Dit hebben wij express gedaan omdat dit geen primaire actie is. Er is te zien dat de testers eerst de tekst lezen boven aan de pagina. Als tweede stap een icoon bekijken, daarna de stappen aan de zijkant bekijken en als laatste nog een keer de iconen doornemen. Hieruit is wel te zien dat sommige iconen overgeslagen worden.
 
 ![](../../../.gitbook/assets/schermafbeelding-2019-01-18-om-11.33.31.png)
 
 ### Overige activiteit toevoegen
+
+Een stap uit het testplan was het toevoegen van een overige activiteit die nog niet in het overzicht stond.
 
 ![](../../../.gitbook/assets/schermafbeelding-2019-01-18-om-11.33.41.png)
 
