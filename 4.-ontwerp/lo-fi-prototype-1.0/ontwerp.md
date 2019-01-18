@@ -4,7 +4,7 @@ In het Lo-Fi prototype 2.0 hebben we aanpassing gedaan n.a.v de [**test**](../hi
 
 > [https://xd.adobe.com/view/bfb76b8c-2d5c-40cb-506c-fe7bd257a333-c986/](https://xd.adobe.com/view/bfb76b8c-2d5c-40cb-506c-fe7bd257a333-c986/)
 
-## 1.0 Home
+## 2.0 Home
 
 > Hier kan de patiënt zien wat voor beweging er vandaag al is gedaan, hoeveel procent dit is van de dagelijkse hoeveelheid en zijn/haar gevaren zones.
 
@@ -12,7 +12,7 @@ De bullet points zijn iets kleiner gemaakt zodat ze niet meer leken op placehold
 
 ![](../../.gitbook/assets/1.0-home_patie-nt%20%281%29.png)
 
-## **2.0 Kies activiteit**
+## **3.0 Kies activiteit**
 
 > De gebruiker kan hier schillende dagelijkse activiteiten kiezen. Zijn/haar meest recente activiteiten komen hier direct te staan. Het gaat hierbij om basis activiteiten die functieverlies tegen kunnen gaan. Er kan ook zelf een activiteit worden toegevoegd \(nog niet zichtbaar in de schets nu\).
 
@@ -20,7 +20,7 @@ Het was vrij verwarrend dat er kruisjes stonden in plaats van iconen. Hierdoor w
 
 ![](../../.gitbook/assets/2.0-activiteit_patie-nt%20%281%29.png)
 
-## 3.0 Tijd
+## 3.1 Tijd
 
 > De patiënt geeft hier aan hoe lang de activiteit heeft geduurd zodat de app bij kan houden of de patiënt de dagelijkse hoeveelheid beweging heeft gehad.
 
@@ -28,7 +28,7 @@ De silder van de tijd was ingewikkeld. Je had voorheen twee manieren waarop je d
 
 ![](../../.gitbook/assets/2.1-activiteit_tijd_patie-nt.png)
 
-## 4.0 Gevoel
+## 3.2 Gevoel
 
 > De patiënt geeft hier aan hij/zij zich bij de activiteit voelde. Deze gegevens worden doorgegeven aan de verzorger/familie zodat zij kunnen zien waar de patiënt moeite mee heeft. Zo kunnen ze gericht motiveren om een bepaalde activiteit te doen of ze kunnen het samen doen om de patiënt meer veiligheid/zekerheid te geven.
 
@@ -36,7 +36,7 @@ We hebben in deze versie placeholder iconen vervangen voorbeeld iconen toegevoeg
 
 ![](../../.gitbook/assets/2.2-activiteit_gevoel_patie-nt%20%281%29.png)
 
-## 5.0 Activiteit toegevoegd
+## 4.0 Activiteit toegevoegd
 
 > De activiteit is toegevoegd aan de dagelijkse beweging. De meter gaat van 70% naar 76% en onderaan het lijstje van activiteiten komt in het blauw.
 
@@ -44,7 +44,7 @@ Om te zorgen dat oudere de kleine hint van 70-76 en de blauwe activiteit niet ov
 
 ![](../../.gitbook/assets/2.3-toegevoegd.png)
 
-## 6.0 Home verzorger
+## 5.0 Home verzorger
 
 > De verzorger**/**familie kunnen hier zien welke onderdelen van het lichaam nog niet genoeg bewegen en waardoor dat komt. Voelde de patiënt zich onzeker? Doet hij/zij te weinig til oefeningen. De verzorger/familie kunnen de patiënt motiveren om meer van deze activiteiten te doen of ze kunnen te hulp schieten om de patiënt meer veiligheid/zekerheid te geven.
 

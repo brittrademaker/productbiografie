@@ -6,7 +6,7 @@ Door een design brief te maken kregen wij een beter beeld van het probleem. Zo k
 
 ## Kaders/keuzes
 
-* 65-plussers die risico lopen op functieverlies
+* Doelgroep 65-plussers die risico lopen op functieverlies
 * Grootste risico omdat functieverlies heel lastig te herstellen is
 * Familie, vrienden, mantelzorgers die de ouderen kunnen helpen
 * Gebruik voor buiten het ziekenhuis na een operatie
