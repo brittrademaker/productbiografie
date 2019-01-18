@@ -30,9 +30,21 @@ Bij dit scherm moesten de testpersonen een gevoel toevoegen. Wanneer de knop roz
 
 ## Heat maps
 
-### jshdjahkja
+### Begin scherm
 
-hasghdh
+Het begin scherm is de belangrijkste scherm. Uit de heat map is te zien dat er overal op de pagina wordt gekeken. Naar de belangrijkste punten van ons scherm wordt ook het meest naar gekeken. De twee blokken boven in beeld en het overzicht. Ook wordt er gekeken naar de kleine rondjes. De roze knop wordt nog weinig naar gekeken terwijl deze wel erg belangrijk is.
+
+![](../../../.gitbook/assets/22.png)
+
+Wanneer de testpersoon het tweede tabje opent zie je dat de tester zich richt op de informatie die gegeven wordt. De blauwe knoppen onderin worden overgeslagen. Deze moeten we op een andere manier gaan vormgeven. Wat ook mist is de connectie die wordt gemaakt met het lichaam rechts van het scherm. De tekst gaat over de gevaren punten die aangegeven worden in het lichaam aan de rechter kant.
+
+![](../../../.gitbook/assets/34.png)
+
+De gegevens zijn duidelijk weer gegeven. De testers hebben vooral gekeken naar de knop bewerk gegevens. Hierdoor weten wij dat deze knop duidelijk genoeg is en dus niet aangepast hoeft te worden. Verder heeft de tester de rest van de tekst door gelezen.
+
+![](../../../.gitbook/assets/25.png)
+
+### 
 
 {% file src="../../../.gitbook/assets/gaze-plots.pdf" caption="Alle Gaze plots" %}
 
