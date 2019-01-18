@@ -31,6 +31,7 @@
     * [Inspiration wall](idee-ontwikkeling/methods/inspiratieboard.md)
     * [Proof of concept](idee-ontwikkeling/methods/proof-of-concept.md)
     * [Programma van eisen](idee-ontwikkeling/methods/programma-van-eisen.md)
+    * [Risico analyse](idee-ontwikkeling/methods/risico-analyse.md)
 * [4. Ontwerp](4.-ontwerp/README.md)
   * [Lo-Fi prototype 2.0](4.-ontwerp/lo-fi-prototype-1.0/README.md)
     * [Ontwerp](4.-ontwerp/lo-fi-prototype-1.0/ontwerp.md)
@@ -51,4 +52,5 @@
   * [Hi-Fi prototype 3.0](5.-validatie/eind-ontwerp.md)
   * [Product quality review](5.-validatie/product-quality-review.md)
 * [Bronnenlijst](bronnenlijst.md)
+* [Samenwerking](samenwerking.md)
 

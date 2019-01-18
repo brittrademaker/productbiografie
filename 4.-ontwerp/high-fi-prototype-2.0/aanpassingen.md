@@ -1,5 +1,9 @@
 # Aanpassingen
 
+Na aanleiding van verschillende testen die we hebben gedaan met Hi-Fi prototype 1.0 hebben we een iteratie gemaakt. We hebbend e feedback gebundeld en hieronder beschreven. Ook zijn er eena antal pagina's aan toegevoegd. 
+
+Link prototype: 
+
 ## 0.0 Login
 
 Login schermen zijn toegevoegd. Deze hadden wij nog niet aangepast t.o.v het interactie ontwerp omdat dit niet heel relevant was om te testen. De gebruikers kunnen inloggen met email en wachtwoord. Dit hoeft eenmalig en de gegevens worden daarna onthouden. De reden voor het account is dat de gegevens beschermd kunnen worden met email en wachtwoord en dus niet iedereen erbij kan.
