@@ -8,13 +8,13 @@ In het Hi-Fi prototype 1.0 hebben we rekening gehouden met [**design voor oudere
 
 Dit is het home scherm voor de gebruikers. Hier kunnen ze in één oogopslag zien wat hun dagelijkse beweging en gevarenzones zijn. Ook kunnen ze hier als primaire actie een activiteit toevoegen. Het is de bedoeling dat ze hun beweging toevoegen als ze deze hebben afgerond zodat ze in het overzicht op de homepagina kunnen zien hoelaat ze het hebben gedaan, wat ze hebben gedaan, hoelang, hoe ze zich voelde en of ze hulp wilden. 
 
-![](../../.gitbook/assets/1.0-activity%20%281%29.png)
+![](../../.gitbook/assets/1.0-activity%20%282%29.png)
 
 ## 2.1 Gevarenzones
 
 Bij de gevarenzones kan de gebruiker zien welke delen van zijn/haar lichaam gevaar lopen en dus risico lopen op functieverlies. Onderaan staan suggesties wat hij/zij daar tegen zou kunnnen doen. De gebruiker moet deze activiteiten wel nog zelf gaan doen en word dus niet gedwongen tot een activiteit. De gebruiker komt ook op deze tab als hij/zij op een van de gevaren driehoekjes rechts klikt, dan opent de gevaren zone tab. 
 
-![](../../.gitbook/assets/2.0-gevaren-zones%20%281%29.png)
+![](../../.gitbook/assets/2.0-gevaren-zones%20%282%29.png)
 
 ## 3.0 Gegevens
 
@@ -32,13 +32,13 @@ Als de gebruiker op "bewerk gegevens" heeft geklikt dan kan hij/zij de gegevens 
 
 Er worden 6 recente acitiviteiten getoond voor de gebruiker. Dit gaat op basis van de activiteiten die door jou het meest worden gedaan. In eerste instatie worden en random 6 activiteiten laten zien. Het is ook altijd mogelijk om een overieg activiteit toe te voegen mocht jouw activiteit er niet bij staan. 
 
-![](../../.gitbook/assets/4.0-stap-1-activiteit-toevoegen%20%281%29.png)
+![](../../.gitbook/assets/4.0-stap-1-activiteit-toevoegen%20%282%29.png)
 
 ## 4.1 Activiteit toevoegen
 
 Hier kan de gebruiker kiezen uit verschillende activiteiten die door de app al gegenereerd zijn. Mocht de app echt gemaakt worden zouden wij deze lijst nog graag uitbreiden met activiteiten. Als hier de activiteit van de gebruiker niet tussen staat kan hij/zij altijd de activiteit zelf nog toevoegen door middel van het invulveld onderaan de pagina. 
 
-![](../../.gitbook/assets/4.1-stap-1-activiteit-toevoegen-custom.png)
+![](../../.gitbook/assets/4.1-stap-1-activiteit-toevoegen-custom%20%281%29.png)
 
 ## 5.0 Activiteit geselecteerd
 
@@ -56,13 +56,13 @@ De nieuwe toegevoegde acitiviteit is gelijk geselecteerd omdat deze net is aange
 
 Hier geeft de gebruiker aan hoelang de activiteit geduurd heeft. In eerste instantie staat er 0 minuten maar zodra de gebruiker de spinner beweegt komt er in het blauw het aantal uur en minuten te staan.
 
-![](../../.gitbook/assets/6.0-stap-2-tijd.png)
+![](../../.gitbook/assets/6.0-stap-2-tijd%20%281%29.png)
 
 ## 7.0 Gevoel
 
 De gebruiker vult hier in hoe hij/zij zich voelde bij de uitgekozen activiteit. Er is gekozen voor smileys om uit te kiezen zodat de gebruiker niets hoeft te typen op de iPad en visueel een keuze kan maken tussen emoties. Het is zo simpeler en sneller.
 
-![](../../.gitbook/assets/7.0-stap-3-gevoel.png)
+![](../../.gitbook/assets/7.0-stap-3-gevoel%20%281%29.png)
 
 ## 8.0 Goevoel geselecteerd 
 

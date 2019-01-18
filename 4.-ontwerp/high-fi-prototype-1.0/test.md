@@ -162,7 +162,7 @@ Na aanleiding van de test met de ouderen lijkt het ons handig om een kleine onbo
 
 Dina begreep niet helemaal waar de iconen tijdens het toevoegen van een activiteit voor stonden. Zo begreep zij bijvoorbeeld het icoon afwassen niet helemaal en kon ze niet zo goed zien wat het was. Dit was dummy content van een iconenset die wij op het internet hadden gevonden. 
 
-![](../../.gitbook/assets/4.2-stap-1-activiteit-toevoegen-custom.png)
+![](../../.gitbook/assets/4.2-stap-1-activiteit-toevoegen-custom%20%281%29.png)
 
 ### Moment van activiteit toevoegen
 
@@ -174,5 +174,5 @@ Ook was het niet duidelijk wanneer er een activiteit toegevoegd moest worden. He
 
 Veel testers dachten dat het kiezen van een tijd een soort timer was. Dit kwam door de manier waarop het eruit zag. Ook kregen wij als feedback dat het misschien lastig kan zijn om de tijd te onthouden als je achteraf iets moet invullen en dat je dan dus niet meer weet hoelang je de activiteit gedaan hebt. Wij hebben hiervoor gekozen om het zo te laten omdat er een mogelijkheid is om een melding te krijgen als je vergeet je activiteiten in te vullen. Hierdoor kunnen mensen die vergeet achtig zijn een reminder instellen. 
 
-![](../../.gitbook/assets/6.0-stap-2-tijd.png)
+![](../../.gitbook/assets/6.0-stap-2-tijd%20%281%29.png)
 

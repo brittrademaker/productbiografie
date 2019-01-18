@@ -4,13 +4,13 @@
 
 Login schermen zijn toegevoegd. Deze hadden wij nog niet aangepast t.o.v het interactie ontwerp omdat dit niet heel relevant was om te testen. De gebruikers kunnen inloggen met email en wachtwoord. Dit hoeft eenmalig en de gegevens worden daarna onthouden. De reden voor het account is dat de gegevens beschermd kunnen worden met email en wachtwoord en dus niet iedereen erbij kan.
 
-![](../../.gitbook/assets/0.0-login.png)
+![](../../.gitbook/assets/0.0-login%20%281%29.png)
 
 ## 0.1 Sign up
 
 Ook is er een aanmeld pagina gemaakt. Deze was eerst ook alleen te zien in het interactie ontwerp. De linkerkant is scrollbaar en de rechterkant staat vast. Hier zijn de radio buttons voor de notificaties geoptimaliseerd voor ouderen. Hier vullen ze dus ook in wanneer en hoevaak ze een melding willen mochten ze hun beweging vergeten in te vullen. 
 
-![](../../.gitbook/assets/0.1-sign-up.png)
+![](../../.gitbook/assets/0.1-sign-up%20%281%29.png)
 
 ## 0.2 Wachtwoord vergeten
 
@@ -22,7 +22,7 @@ Het kan natuurlijk gebeuren dat de app op een ander device gedownload word en er
 
 Uit de [**test**](../high-fi-prototype-1.0/test.md) ****bleek dat het fijn was om een kleine onboarding te geven van de app en hoe je de app gebruikt. Dit is een onderdeel dat wij, met meer tijd, graag beter hadden willen uitwerken. Wij hebben hier wel een kleine opzet voor gemaakt. De twee belangrijkste funtionaliteiten worden toegelicht. 1. Activiteit toevoegen en **wanneer** je de activiteit toevoegd. Dit was namelijk vaak nog onduidelijk in testen. Of ze het voordat ze de activiteit doen invullen of erna. 2. Uitleg van de lichaamsgesteldheid en wat ze kunnen doen om dit te verbeteren. 
 
-![](../../.gitbook/assets/0.0-login-copy-2.png)
+![](../../.gitbook/assets/0.0-login-copy-2%20%281%29.png)
 
 ## 2.0 Home
 

@@ -48,8 +48,7 @@
   * [High-Fi prototype 2.0](4.-ontwerp/high-fi-prototype-2.0/README.md)
     * [Aanpassingen](4.-ontwerp/high-fi-prototype-2.0/aanpassingen.md)
     * [Test](4.-ontwerp/high-fi-prototype-2.0/test.md)
-    * [Iteratie kleurgebruik](4.-ontwerp/high-fi-prototype-2.0/iteratie-hi-fi-prototype-2.0.md)
 * [5. Validatie](5.-validatie/README.md)
-  * [Eind ontwerp](5.-validatie/eind-ontwerp.md)
+  * [Hi-Fi prototype 3.0](5.-validatie/eind-ontwerp.md)
   * [Product quality review](5.-validatie/product-quality-review.md)
 
