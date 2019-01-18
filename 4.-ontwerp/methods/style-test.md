@@ -6,7 +6,7 @@ In ons oude prototype hebben we twee verschillende soorten sets met iconen gebru
 
 ## Onderzoek
 
-> De lens en het hoornvlies worden donkerder en geler van kleur en onze pupillen worden kleiner. Ons gezichtsveld beperkt zich en bij staar wordt het licht als het ware ‘verstrooid’. Kleuren komen bij ouderen gedempter over – het verschil tussen de kleuren onderling wordt zogezegd minder. Daarom is het goed om te werken met kleuren die elkaar contrasteren, zoals witte borden op een donker tafelkleed.Warme kleuren bevorderen een gevoel van veiligheid en harmonie en kunnen dus helpen bij gevoelens van eenzaamheid en angst. Door heldere kleuren te gebruiken wordt het verlies van gezichtsscherpte tegengegaan. Dat hoeft niet ten koste te gaan van de ‘warmte’ van kleuren; kleuren zoals ‘perzik’, ‘warm bruin’ en ‘abrikoos’, ‘terracotta’ en roze zijn kleuren die lang goed zichtbaar blijven.
+> De lens en het hoornvlies worden donkerder en geler van kleur en onze pupillen worden kleiner. Ons gezichtsveld beperkt zich en bij staar wordt het licht als het ware ‘verstrooid’. Kleuren komen bij ouderen gedempter over – het verschil tussen de kleuren onderling wordt zogezegd minder. Daarom is het goed om te werken met kleuren die elkaar contrasteren, zoals witte borden op een donker tafelkleed.Warme kleuren bevorderen een gevoel van veiligheid en harmonie en kunnen dus helpen bij gevoelens van eenzaamheid en angst. Door heldere kleuren te gebruiken wordt het verlies van gezichtsscherpte tegengegaan. Dat hoeft niet ten koste te gaan van de ‘warmte’ van kleuren; kleuren zoals ‘perzik’, ‘warm bruin’ en ‘abrikoos’, ‘terracotta’ en roze zijn kleuren die lang goed zichtbaar blijven \(zie [onderzoeksvragen](../../analyse/onderzoeksvragen/oudere-vriendelijke-ui.md)\).
 
 ### Iteratie n.a.v onderzoek
 
@@ -16,9 +16,7 @@ Nadat we hebben gekozen voor de gevulde iconen hebben we nogmaals een iteratie g
 
 We kwamen hierdoor tot de conclusie, dat in deze gedetailleerde iconen het belangrijk is dat de buitenkant \(outline\) een groot contrast heeft met de binnenkant. Hierom hebben we gekozen voor een zwarte outline. 
 
-
-
-HIER MOET NOG PNG VAN PAGINA MET ICONEN MET ZWARTE RAND
+![](../../.gitbook/assets/4.0-stap-1-activiteit-toevoegen%20%282%29.png)
 
 
 
