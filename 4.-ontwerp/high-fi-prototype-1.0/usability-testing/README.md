@@ -1,10 +1,10 @@
 # Usability test
 
-In het usability lab hebben we getest met de versie ****[**Hi-Fi prototype 1.0**](../). We hebben een [**testplan**](testplan.md) gemaakt die de tester moest volgen tijdens het testen van de app. Achteraf hebben we vragen gesteld over de app en feedback gevraagd. 
+In het usability lab hebben we getest met de versie ****[**Hi-Fi prototype 1.0**](../). We hebben een [**testplan**](testplan.md) gemaakt die de tester moest volgen tijdens het testen van de app. Achteraf hebben we feedback gevraagd en vragen gesteld over de app. 
 
 ## Verzamelde data
 
-De gaze plots hebben ons erg geholpen om te kijken of de hierarchie in onze pagina's klopte. Aan de hand van de gaze plots konden we zien of knoppen die we als primair hadden bedacht ook echt als eerst op vielen.
+De gaze plots hebben ons erg geholpen om te kijken of de hierarchie in onze pagina's klopte. Aan de hand van de gaze plots konden we zien of knoppen die we als primair hadden bedacht ook echt als eerst op vielen. Aan de hand van de heatmaps hebben wij kunnen zien welke plekken op de pagina het meest werden bekeken.
 
 ## Gaze plot
 
@@ -22,9 +22,17 @@ Een stap uit het testplan was het toevoegen van een overige activiteit die nog n
 
 ### Gevoel toevoegen
 
+Bij dit scherm moesten de testpersonen een gevoel toevoegen. Wanneer de knop roze is wordt deze wel gezien. Als hij grijs is wordt hij overgeslagen. We waren bang dat de tekst "Ik zou hier graag hulp bij willen" zou worden overgeslagen. Door het doen van deze test zijn we erachter gekomen dat allebei de testpersonen hier juist meerdere keren naar hebben gekeken.
+
 ![](../../../.gitbook/assets/schermafbeelding-2019-01-18-om-11.33.36.png)
 
 ![](../../../.gitbook/assets/schermafbeelding-2019-01-18-om-11.50.00.png)
+
+## Heat maps
+
+### jshdjahkja
+
+hasghdh
 
 {% file src="../../../.gitbook/assets/gaze-plots.pdf" caption="Alle Gaze plots" %}
 
