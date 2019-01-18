@@ -1,6 +1,6 @@
 # Ontwerp
 
-In het Lo-Fi prototype 2.0 hebben we aanpassing gedaan n.a.v de [**test**](../high-fi-prototype-1.0/test.md) ****uitkomsten. Links is het Lo-Fi prototype 1.0 en rechts de iteratie hiervan. 
+In het Lo-Fi prototype 2.0 hebben we aanpassing gedaan n.a.v de uitkomsten van de [**test**](../high-fi-prototype-1.0/test.md). Links is het Lo-Fi prototype 1.0 en rechts de iteratie hiervan. 
 
 > [https://xd.adobe.com/view/bfb76b8c-2d5c-40cb-506c-fe7bd257a333-c986/](https://xd.adobe.com/view/bfb76b8c-2d5c-40cb-506c-fe7bd257a333-c986/)
 
