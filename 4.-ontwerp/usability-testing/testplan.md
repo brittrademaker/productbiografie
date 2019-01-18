@@ -209,7 +209,7 @@ Ja denk het wel.
 
 ## Uitkomsten
 
-Een punt wat steeds terug kwam uit de test en tijdens de presentatie was dat de tabs leken op kopjes die horen bij de tekst eronder omdat ze uitlijnen met de tekst eronder. We hebben hier [iteraties](iteratie-hi-fi-prototype-2.0.md) voor gemaakt.
+Een punt wat steeds terug kwam uit de test en tijdens de presentatie was dat de tabs leken op kopjes die horen bij de tekst eronder omdat ze uitlijnen met de tekst eronder. We hebben hier [iteraties](../high-fi-prototype-2.0/iteratie-hi-fi-prototype-2.0.md) voor gemaakt.
 
 ![](../../.gitbook/assets/schermafbeelding-2019-01-17-om-20.54.13.png)
 
