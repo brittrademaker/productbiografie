@@ -46,6 +46,12 @@ De gegevens zijn duidelijk weer gegeven. De testers hebben vooral gekeken naar d
 
 ### 
 
+### Activiteit toevoegen
+
+In de heat map is te zien dat ook hier weer de grijze knop wordt overgeslagen. Verder is er het meest gekeken op de plekken van de toevoeg knoppen. Deze zijn duidelijk genoeg op de pagina vermeld. Ook is er veel gekeken naar het toevoegen van een eigen activiteit. We waren bang dat deze misschien onvindbaar zou zijn. De kopjes zijn allemaal gelezen alleen de iconen zijn bijna allemaal overgeslagen. Daarom passen we ook hier de iconen aan.
+
+![](../../../.gitbook/assets/31.png)
+
 {% file src="../../../.gitbook/assets/gaze-plots.pdf" caption="Alle Gaze plots" %}
 
 {% file src="../../../.gitbook/assets/heat-maps.pdf" caption="Alle Heatmaps" %}
