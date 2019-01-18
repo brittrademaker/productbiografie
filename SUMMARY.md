@@ -14,7 +14,6 @@
     * [Waar moet je rekening mee houden als je ontwerpt voor ouderen?](analyse/onderzoeksvragen/oudere-vriendelijke-ui.md)
   * [Onderzoeksmethodes](analyse/onderzoeksmethodes/README.md)
     * [Literature study](analyse/onderzoeksmethodes/literature-study.md)
-    * [Interview](analyse/onderzoeksmethodes/interview.md)
     * [Persona](analyse/onderzoeksmethodes/persona.md)
     * [Job - en user stories](analyse/onderzoeksmethodes/job-en-user-stories.md)
     * [Customer journey](analyse/onderzoeksmethodes/customer-journey.md)

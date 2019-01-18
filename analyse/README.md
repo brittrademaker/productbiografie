@@ -33,8 +33,6 @@ In de onderzoeksfase hebben wij veel onderzoek gedaan naar het probleem. Wij had
 
 {% page-ref page="onderzoeksmethodes/literature-study.md" %}
 
-{% page-ref page="onderzoeksmethodes/interview.md" %}
-
 {% page-ref page="onderzoeksmethodes/persona.md" %}
 
 {% page-ref page="onderzoeksmethodes/job-en-user-stories.md" %}
