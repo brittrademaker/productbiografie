@@ -16,7 +16,7 @@ Dit zijn gaze plots van twee verschillende testers \(links en rechts\). Uit deze
 
 ### Overige activiteit toevoegen
 
-Een stap uit het testplan was het toevoegen van een overige activiteit die nog niet in het overzicht stond.
+Een stap uit het testplan was het toevoegen van een overige activiteit die nog niet in het overzicht stond. Ook hier merkte we dat de knop die disabled is wordt overgeslagen. Dit is dus een goede manier. Verder zien we dat testpersoon links niet het kopje leest en de tekst onder in wel en testpersoon rechts net anders om. Er wordt niet echt naar de iconen gekeken. Deze gaan we daarom ook aanpassen. De knoppen zijn wel duidelijk want die worden door beide testpersonen gezien.
 
 ![](../../../.gitbook/assets/schermafbeelding-2019-01-18-om-11.33.41.png)
 
