@@ -10,6 +10,8 @@ De gaze plots hebben ons erg geholpen om te kijken of de hierarchie in onze pagi
 
 ### Activiteit toevoegen
 
+Dit zijn gaze plots van twee verschillende testers \(links en rechts\).
+
 ![](../../../.gitbook/assets/schermafbeelding-2019-01-18-om-11.33.31.png)
 
 ### Overige activiteit toevoegen
