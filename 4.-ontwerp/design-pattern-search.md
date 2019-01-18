@@ -1,6 +1,0 @@
-# Design pattern search
-
-
-
-
-

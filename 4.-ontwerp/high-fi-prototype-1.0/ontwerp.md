@@ -58,7 +58,13 @@ Als de gebruiker op "bewerk gegevens" heeft geklikt dan kan hij/zij de gegevens 
 
 ![](../../.gitbook/assets/9.0-stap-3-gevoel-selected-help.png)
 
-## 6.0 Home verzorger
+## 6.0 Activiteit toegevoegd
+
+Het bevestigings scherm dat een activiteit daadwerkelijk is toegevoegd aan de dagelijkse beweging van de gebruiker. 
+
+![](../../.gitbook/assets/10.0-beweging-toegevoegd.png)
+
+## 7.0 Home verzorger
 
 Hier kunnen de familie, vrienden of mantelzorgers de activiteiten van de gebruiker zien. Ook zijn hier de gevarenzones zichtbaar van de gebruiker. Door deze twee gegevens van de gebruiker te delen met de verzorger kan er gerichter hulp en motivatie worden gegeven aan de gebruiker. De verzorger kan precies zien waar de gebruiker moeite mee had en hoe hij/zij zich daarbij voelde. 
 

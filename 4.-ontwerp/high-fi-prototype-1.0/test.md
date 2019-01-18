@@ -1,6 +1,6 @@
 # Test
 
-Om ons concept te testen hebben wij in het usability lab een test gehouden met verschillende gebruikers. Hierdoor konden we testen wat ze van de app vonden, waar ze tegenaan liepen en konden we de data van de gazeplot en heatmaps gebruiken om ons ontwerp te optimaliseren.
+Om ons concept te testen hebben wij in een 65+ woonwijkje het design voorgelegd aan verschillende ouderen. Hierbij wilden we weten of het toevoegen van een acitviteit duidelijk en gemakkelijk was. 
 
 ## Testplan
 
@@ -16,48 +16,46 @@ De test is bedoeld voor ouderen die door gevolg van een ziekenhuisopname last he
 
 Een beter herstel door middel van gerichte motivatie en aansporing tot beweging van familie/vrienden op de pijnpunten van de patiënt.
 
-## **Testpersoon 1:** Anne <a id="anne"></a>
+## **Testpersoon 1:** Elly <a id="anne"></a>
 
 * **Taak 1: Open de app**
 
    **Is het overzicht duidelijk?**
 
-   _Ja, ik zie dat ik ben ingelogd, ik zie de voortgang en de activiteiten die ik heb gedaan. Ik zie welk lichaamsdeel ik moet bewegen._
+   _Ja ik kan gelijk mijn acitiviteiten zien die ik gedaan heb. Het lijkt heel erg op het blaadje wat je mij toen gegeven hebt_ [_**\(proof of concept\)**_](../../idee-ontwikkeling/methods/proof-of-concept.md)_\*\*\*\*_
 
    **Is het duidelijk waar de informatie voor staat \(gekleurde blokken bovenaan\)?**
 
-   _Voortgang is van beweging of van de activiteiten? de procenten zijn duidelijk alleen het is niet duidelijk hoever in wat ze betekenen. Ze gaat ervanuit dat dit over de activiteiten gaat._
-
-   **Zijn alle kopjes duidelijk en passend?**
-
-   _Ik dacht dat titels bij de rijen eronder hoorde. Pas wanneer je erop klikt is het duidelijk dat het kopjes zijn. Verder zijn de titels duidelijk._
+   _Ja het is voor mij duidelijk en een goed vooruitzicht om het te kunnen zien._
 
    **Kunt u zonder instructies de app gebruiken?**
 
-   _Ja het is wel voor de hand liggend. Dus niet perse instructies nodig._
+   _Ik zou misschien wel meer uitleg willen over de gevaren zones want ik snap de rondjes nu niet zo goed. Misschien een link met het onderdeel links._ 
 
 * ​
 * **Taak 2a: Voeg een activiteit toe aan uw dagelijkse beweging**
 
    **Is het gelukt om een activiteit toe te voegen?**
 
-  _Ja, het was voor mij niet duidelijk dat je de activiteit invult als je hem hebt gedaan en niet die je gaat doen._
+  _Ja dat is gelukt. Het was simpel en ik kon makkelijk alles aanklikken. Vond alleen de tijd invullen een beetje lastig met het rad._ 
+
+* \_\_
 
    **Ging dit makkelijk?**
 
-   _Ja, erg simpel._
+   _Ja._
 
    **Waren de stappen duidelijk?**
 
-   _Ja de uitleg bij de stappen was duidelijk._
+   _Ja. Erg fijn dat je aan de rechter kant ook nog een overzicht hebt._ 
 
    **Is het duidelijk waar de iconen voor staan?**
 
-   _iconen zijn juist handig en maakt het te begrijpen ._
+  _Ja alleen bij sommige activiteiten vind ik de iconen niet heel logisch._
 
    **Ging het vragen om hulp \(in de app\) makkelijk?**
 
-  _Ja je kon dit aanvinken, het viel alleen niet erg op omdat het erg klein is. En krijg je dan hulp bij de volgende keer? dus wil je hulp bij de volgende keer._
+  _Ja was erg gemakkelijk._ 
 
   **​**
 
@@ -65,98 +63,68 @@ Een beter herstel door middel van gerichte motivatie en aansporing tot beweging 
 
    **Is het gelukt om een activiteit toe te voegen?**
 
-   _ja, wel makkelijk te vinden_
+  _Ja._
 
    **Ging dit makkelijk?**
 
-   _ja_
+   _Ja alleen snapte ik niet wat de tijd invullen niet zo goed. Ik snapte niet dat ik eraan kon draaien en het leek op een timer. Later zag ik wel dat de tijd veranderde en er stond hoelang ik iets had gedaan. Dit was alleen eerst onduidelijk._ 
 
    **Is de knop goed te vinden?**
 
-   _ja_
+   _Ja hij lijkt heel erg op die andere knop voor het toevoegen van een activiteit._
 
 * ​
 * **Taak 3: Pas uw gegevens aan**
 
    **Was dit makkelijk te vinden?**
 
-   _ja, omdat het een andere kleur is om aan te passen_
+   _Ja._
 
   **Ging het aanpassen van uw gegevens makkelijk?**
 
-   _ja_
+   _Vond dit wel moeilijk omdat ik het knopje van opslaan over het hoofd had gezien, deze was een beetje klein._
 
-### **Algemene vragen:**
-
-**Omschrijf wat volgens u het doel van de app is**
-
-Ouderen stimuleren om te bewegen en activiteiten te doen.
-
-**Zijn er dingen die niet duidelijk zijn?**
-
-De titeltjes in het overzicht. Misschien losse buttons.
-
-**Waar had u moeite mee?**
-
-Nee
-
-**Wat zou u nog veranderen?**
-
-De kopjes en het gedeelte bij de taak kiezen, grotere plaatjes.
-
-**Zou u uw gevoel bij de activiteit willen doorspelen naar uw familie/vrienden zodat ze u zouden kunnen helpen waar u moeite bij heeft?**
-
-De drempel ligt wel lager.
-
-**Zouden uw familie/vrienden te hulp schieten als ze zien dat u ergens moeite mee hebt?**
-
-Ja denk het wel
-
-**Heeft u nog aanvullende tips?**
-
-Niet echt
-
-## Testpersoon 2: Robin
+## Testpersoon 2: Dina
 
 * **Taak 1: Open de app**
 
    **Is het overzicht duidelijk?**
 
-  _Ja, wat wordt er bedoelt met gevaren zones? Bovenste blokken zijn duidelijk. Moeite met been en arm? wat zijn de gevaren zones? Ik snap wat het zijn alleen niet wat het doet._
+  _Ja. Ik snap alleen de bovenste twee blokken niet. Mag ik daar op klikken?_
 
    **Is het duidelijk waar de informatie voor staat \(gekleurde blokken bovenaan\)?**
 
-  _Ja, zijn duidelijk. Kan ik zien wat ik vorige week heb gedaan?_
+  _Ja de informatie snap ik wel._
 
    **Zijn alle kopjes duidelijk en passend?**
 
-  _Dacht dat de titels bij het rijtje eronder horen. Het lijken kopjes boven de rijen. Pas toen ik klikte kwam ik erachter._
+  _Ik snap niet wat die drie woorden onderin het blok doen. Ga ik dan ergens heen?_
 
    **Kunt u zonder instructies de app gebruiken?**
 
-  _Genoeg uitleg, iconen zijn duidelijk. Denk om kleuren van de driehoek en het blok._
+  _Ik denk dat ik dan wel even bezig ben. Ik ben nog niet heel goed op de iPad. Een beetje uitleg heb ik wel nodig denk ik._ 
 
 * **Taak 2a: Voeg een activiteit toe aan uw dagelijkse beweging**
 
    **Is het gelukt om een activiteit toe te voegen?**
 
-  _Iconen bij je lijst als je afwassen hebt gekozen bijvoorbeeld. Waar zijn de tijden op gebaseerd? uitleg dat het na het doen van de oefening is want het lijkt alsof het plannen is._
+  _Ja. Vind alleen de plaatjes van de activiteiten gek. Waarom heeft afwassen dat plaatje? Ik vind dat verwarrend. Ik zie liever een afwasborstel._
 
    **Ging dit makkelijk?**
 
-  _Ja, redelijk, de activiteit zelf wel alleen de emoties was nog niet duidelijk._
+  _Ja, alleen de plaatjes waren verwarrend._
 
    **Waren de stappen duidelijk?**
 
-  _Ja korte stappen._
+  _Ja handig voor iemand zoals ik die niet heel veel iPad kennis heeft._
 
    **Is het duidelijk waar de iconen voor staan?**
 
-  _Iconen zijn duidelijk._
+  _Nee niet echt._
 
    **Ging het vragen om hulp \(in de app\) makkelijk?**
 
-  _Ja, staat op de juiste plek. Niet duidelijk dat het voor de volgende keer is : "Hulp bij willen voor de volgende keer" omdat het anders op dit moment is._
+  _Ja._
 
   _**​**_
 
@@ -164,66 +132,43 @@ Niet echt
 
   **Is het gelukt om een activiteit toe te voegen?**
 
-   _Ja, 'annuleer’ knop duidelijker maken._
+   _Ja ik dacht alleen dat ik moest zeggen wat ik wilde doen en dat de app dan mijn tijd bij zou houden._ 
 
    **Ging dit makkelijk?**
 
-   _Ja_
+   _Ja._
 
    **Is de knop goed te vinden?**
 
-   _Ja, misschien iets meer los staand zodat hij meer opvalt._
+   _Ja._
 
 * **Taak 3: Pas uw gegevens aan**
 
    **Was dit makkelijk te vinden?**
 
-   _ja_,
+   _Nee, ik snapte niet dat het die bovenste balk was die bij het onderste blok hoorde._
 
   **Ging het aanpassen van uw gegevens makkelijk?**
 
-   _ja, wil je dat de dokter het invult en zou je dit zelf willen kunnen aanpassen? is dit van belang? Krijg je mailtjes?_
-
-### **Algemene vragen:**
-
-**Omschrijf wat volgens u het doel van de app is**
-
-Het doen van klusjes in huis binnen een bepaalde tijd en er hulp bij vragen. Hij geeft aan dat je knie nog niet zo goed is dus daar meer aandacht aan geven \(dit meer in de app naar voren halen : "Hallo je knie is nog niet helemaal hersteld ga nu een stukje lopen"\). Bij activiteit kiezen van een aanbevolen oefening.
-
-**Zijn er dingen die niet duidelijk zijn?**
-
-De titeltjes in het overzicht. Zorgen dat het lijkt op tabbladen. Niet uitlijnen met de tekst eronder. Of een balkje voor duidelijke scheiding.
-
-**Waar had u moeite mee?**
-
-Indicatie dat je begint en eindigt of apart neer zetten op de home pagina. "Wat vond je van deze activiteit?"
-
-**Wat zou u nog veranderen?**
-
-Uitleg bij het poppetje, waarom gevaren zones? 30 % beter dat je dat bij de knie kan zetten of je doet nog niet genoeg. koppelen aan je arm.
-
-**Zou u uw gevoel bij de activiteit willen doorspelen naar uw familie/vrienden zodat ze u zouden kunnen helpen waar u moeite bij heeft?**
-
-Zelf vragen doen ze niet, vaak zeggen ze "ik heb geen hulp nodig". De drempel is erg hoog. De app moet wel de drempel lager zetten. Ik wil hulp van : familie of vrienden.
-
-**Zouden uw familie/vrienden te hulp schieten als ze zien dat u ergens moeite mee hebt?**
-
-Ja denk het wel.  
-
+   _Ja alleen vond ik het lastig te vinden._
 
 ## Testresultaten
 
-### Tabs
+### Onboarding
 
-Dit was het grootste onderdeel waar moeite werd ondervonden. De tabs waren onduidelijk. Door de scheiding van de blokken was het niet duidelijk waar deze tabjes bij hoorden. Mensen dachten dat het los stond van het onderste gedeelte terwijl dit juist bij elkaar hoorde. Ook verwarden mensen het met menu items terwijl dit niet de bedoeling was.
+Na aanleiding van de test met de ouderen lijkt het ons handig om een kleine onboarding toe te voegen als je het eerst de app download. Hierdoor krijgne ouderen een klein beetje uitleg vooraf en kunnen er wat dingen worden uitgelegd. 
 
-![](../../.gitbook/assets/1.0-activity%20%281%29.png)
+### Iconen 
+
+Dina begreep niet helemaal waar de iconen tijdens het toevoegen van een activiteit voor stonden. Zo begreep zij bijvoorbeeld het icoon afwassen niet helemaal en kon ze niet zo goed zien wat het was. Dit was dummy content van een iconenset die wij op het internet hadden gevonden. 
+
+![](../../.gitbook/assets/4.2-stap-1-activiteit-toevoegen-custom.png)
 
 ### Moment van activiteit toevoegen
 
 Ook was het niet duidelijk wanneer er een activiteit toegevoegd moest worden. Het was niet duidelijk of dit voor of na het doen van de activiteit moest. Uit de test bleek dat mensen dachten dat ze een activiteit moesten toevoegen voordat ze eraan begonnen. Het is de bedoeling dat mensen op een activiteit reflecteren als ze de activiteit gedaan hebben. 
 
-![](../../.gitbook/assets/4.0-stap-1-activiteit-toevoegen%20%281%29.png)
+![](../../.gitbook/assets/1.0-activity-copy.png)
 
 ### Tijd invullen
 
