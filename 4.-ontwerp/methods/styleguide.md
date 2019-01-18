@@ -16,7 +16,7 @@ Voor de typografie van de app is er gekozen voor een vriendelijk en zacht letter
 
 ## Buttons
 
-Voor de buttons is er gekozen voor grote buttons van 46px hoog zodat het tab target groot genoeg is voor ouderen om erop te klikken. Ook is er bewust voor gekozen om primaire acties in het proces roze te maken. Deze kleur springt er echt uit en uit onze [**usability test** ](../usability-testing/)is gebleken dat er dan ook vaak naar deze knop gekeken word. Ook zorgt dit voor een stukje herkenning omdat de knop om een actie uit te voeren in het proces, steeds dezelfde kleur is. 
+Voor de buttons is er gekozen voor grote buttons van 46px hoog zodat het tab target groot genoeg is voor ouderen om erop te klikken. Ook is er bewust voor gekozen om primaire acties in het proces roze te maken. Deze kleur springt er echt uit en uit onze [**usability test** ](../high-fi-prototype-1.0/usability-testing/)is gebleken dat er dan ook vaak naar deze knop gekeken word. Ook zorgt dit voor een stukje herkenning omdat de knop om een actie uit te voeren in het proces, steeds dezelfde kleur is. 
 
 ![](../../.gitbook/assets/buttons.png)
 
