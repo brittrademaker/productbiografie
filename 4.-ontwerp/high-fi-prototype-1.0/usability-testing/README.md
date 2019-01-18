@@ -1,6 +1,6 @@
 # Usability test
 
-In het usability lab hebben we getest met de versie ****[**Hi-Fi prototype 1.0**](../). We hebben een [**testplan**](testplan.md) gemaakt die de tester moest volgen tijdens het testen van de app. Achteraf hebben we feedback gevraagd en vragen gesteld over de app. 
+In het usability lab hebben we getest met de versie ****[**Hi-Fi prototype 1.0**](../). We hebben een [**testplan**](testplan.md) gemaakt die de tester moest volgen tijdens het navigeren door de app. Achteraf hebben we feedback gevraagd en vragen gesteld over de app. 
 
 ## Verzamelde data
 
