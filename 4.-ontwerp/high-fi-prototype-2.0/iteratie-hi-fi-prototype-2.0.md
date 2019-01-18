@@ -1,4 +1,4 @@
-# Iteratie Hi-FI prototype 2.0
+# Iteratie kleurgebruik
 
 > Uit deze test is gebleken dat het overzicht met blauwe kleuren beter zichtbaar is. Door het hoge contrast in kleur is dit beter zichtbaar en duidelijker voor ouderen \(zie [iconen test](../methods/style-test.md)\).
 
