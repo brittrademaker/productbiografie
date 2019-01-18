@@ -1,10 +1,66 @@
 # Ontwerp
 
-In het Hi-Fi prototype 1.0 
+In het Hi-Fi prototype 1.0 hebben we rekening gehouden met [**design voor ouderen**](../../analyse/onderzoeksvragen/oudere-vriendelijke-ui.md). We hebben uitgebreid [**onderzoek**](../../analyse/onderzoeksvragen/oudere-vriendelijke-ui.md) gedaan naar kleuren, vormen en typografie voor ouderen. Dit hebben we toegepast in onze eerste versie van het visual design. 
 
 > [https://xd.adobe.com/view/fd30771f-f6d3-4c39-a78b-f87b802c0a4d-a863/](https://xd.adobe.com/view/fd30771f-f6d3-4c39-a78b-f87b802c0a4d-a863/)
 
-## 5.0 
+## **2.0 Home**
+
+Dit is het home scherm voor de gebruikers. Hier kunnen ze in één oogopslag zien wat hun dagelijkse beweging en gevarenzones zijn. Ook kunnen ze hier als primaire actie een activiteit toevoegen. Het is de bedoeling dat ze hun beweging toevoegen als ze deze hebben afgerond zodat ze in het overzicht op de homepagina kunnen zien hoelaat ze het hebben gedaan, wat ze hebben gedaan, hoelang, hoe ze zich voelde en of ze hulp wilden. 
+
+![](../../.gitbook/assets/1.0-activity%20%281%29.png)
+
+## 2.1 Gevarenzones
+
+![](../../.gitbook/assets/2.0-gevaren-zones%20%281%29.png)
+
+## 2.2 Gegevens
+
+Op deze pagina kan de gebruiker zijn/haar gegevens aanpassen. Het gaat hier vooral om het aantal keer melding per dag. De gebruiker kan namelijk meldingen ontvangen als zij/hij nog geen activiteiten heeft ingevuld op het aangegeven tijdstip \(meerdere keren per dag of 1 keer per dag\). Ook kunnen hier de gegevens worden gewijzigd. 
+
+![](../../.gitbook/assets/3.0-gegevens.png)
+
+## 2.3 Gegevens bewerken
+
+Als de gebruiker op "bewerk gegevens" heeft geklikt dan kan hij/zij de gegevens aanpassen in de invul velden. Met de radio buttons kan er gekozen worden voor de hoeveelheid meldingen als de gebruiker vergeet de activiteiten in te vullen. 
+
+![](../../.gitbook/assets/3.1-gegevens-edit.png)
+
+## 3.0 Activiteit toevoegen
+
+![](../../.gitbook/assets/4.0-stap-1-activiteit-toevoegen%20%281%29.png)
+
+## 3.1 Activiteit geslecteerd
+
+![](../../.gitbook/assets/5.0-stap-1-activiteit-toevoegen-active.png)
+
+## 3.2 Activiteit toevoegen
+
+![](../../.gitbook/assets/4.1-stap-1-activiteit-toevoegen-custom.png)
+
+## 3.3 Activiteit geselecteerd
+
+![](../../.gitbook/assets/5.1-stap-1-activiteit-toevoegen-custom-active.png)
+
+## 4.0 Tijd
+
+![](../../.gitbook/assets/6.0-stap-2-tijd.png)
+
+## 5.0 Gevoel
+
+![](../../.gitbook/assets/7.0-stap-3-gevoel.png)
+
+## 5.1 Goevoel geselecteerd 
+
+![](../../.gitbook/assets/8.0-stap-3-gevoel-selected.png)
+
+## 5.2 Hulp gevraagd
+
+![](../../.gitbook/assets/9.0-stap-3-gevoel-selected-help.png)
+
+## 6.0 Home verzorger
+
+Hier kunnen de familie, vrienden of mantelzorgers de activiteiten van de gebruiker zien. Ook zijn hier de gevarenzones zichtbaar van de gebruiker. Door deze twee gegevens van de gebruiker te delen met de verzorger kan er gerichter hulp en motivatie worden gegeven aan de gebruiker. De verzorger kan precies zien waar de gebruiker moeite mee had en hoe hij/zij zich daarbij voelde. 
 
 ![](../../.gitbook/assets/1.0-activity-copy.png)
 
