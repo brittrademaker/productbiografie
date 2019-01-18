@@ -50,4 +50,5 @@
 * [5. Validatie](5.-validatie/README.md)
   * [Hi-Fi prototype 3.0](5.-validatie/eind-ontwerp.md)
   * [Product quality review](5.-validatie/product-quality-review.md)
+* [Bronnenlijst](bronnenlijst.md)
 

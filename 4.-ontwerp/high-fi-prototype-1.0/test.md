@@ -2,8 +2,6 @@
 
 Om ons concept te testen hebben wij in een 65+ woonwijkje het design voorgelegd aan verschillende ouderen. Hierbij wilden we weten of het toevoegen van een acitviteit duidelijk en gemakkelijk was. 
 
-## Testplan
-
 ### **Inleiding doelgroep**
 
 #### **Case**
