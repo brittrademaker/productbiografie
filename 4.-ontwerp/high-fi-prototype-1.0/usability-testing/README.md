@@ -52,6 +52,12 @@ In de heat map is te zien dat ook hier weer de grijze knop wordt overgeslagen. V
 
 ![](../../../.gitbook/assets/31.png)
 
+### Gevoel toevoegen
+
+Op deze heat map is duidelijk te zien dat de om hulp vraag knop het meest wordt bekeken. Dit is positief omdat dit een belangrijke actie is op deze pagina. Alle iconen zijn bekeken op de pagina en de tekst is gelezen. Op dit scherm hoeft niet veel veranderd te worden. Wel is hier naar de grijze knop gekeken, maar dit is maar heel kort geweest.
+
+![](../../../.gitbook/assets/39.png)
+
 {% file src="../../../.gitbook/assets/gaze-plots.pdf" caption="Alle Gaze plots" %}
 
 {% file src="../../../.gitbook/assets/heat-maps.pdf" caption="Alle Heatmaps" %}
