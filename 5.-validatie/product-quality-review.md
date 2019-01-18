@@ -1,5 +1,7 @@
 # Product quality review
 
+In de product quality review blikken we terug op het programma van eisen en de design challenge. Heeft onze oplossing alle eisen en heeft het de design challenge beantwoord. 
+
 ## Programma van eisen
 
 {% tabs %}
@@ -73,4 +75,10 @@ Het design is ontworpen en getest met de doelgroep op tablet formaat en is daarv
 We hebben gezorgd voor zo min mogelijk tekst en alles zo visueel mogelijk te doen door middel van zelfgemaakte iconen. Er is ook rekening gehouden met de tekst door deze zo kort mogelijk te houden. Ook staan er niet te vele woorden op een regel waardoor het makkelijker leesbaar is. 
 {% endtab %}
 {% endtabs %}
+
+## Design challenge
+
+> Design challenge: hoe kan een digitale oplossing, die ervoor zorgt dat mensen \(met name ouderen\) die risico lopen op functieverlies, helpen om meer te gaan bewegen, waarbij de familie/verzorgers een motiverende rol spelen in het opbouwen van vertrouwen in eigen kunnen.
+
+Onze oplossing helpt mensen om meer te gaan bewegen door ze bewust te maken van de gevaren als ze het niet doen. Door de lichaamsgesteldheid van de persoon bij te houden zien ze precies waar het minder gaat en hoe hard je achteruit kan gaan. Ook helpen de familie/verzorgers met het herstel doordat zij te hulp kunnen schieten als de gebruiker daarom vraagt. Doordat de gebruiker zij/haar gevoel aan een activiteit koppelt en wel of niet kan vragen om hulp kan er gerichter geholpen en gemotiveerd worden. Door een activiteit samen te doen word de gebruiker daar weer vaardiger in en is hij/zij weer gemotiveerd om dit in het vervolg alleen te kunnen doen. 
 

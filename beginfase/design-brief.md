@@ -11,5 +11,9 @@ Door een design brief te maken kregen wij een beter beeld van het probleem. Zo k
 * Familie, vrienden, mantelzorgers die de ouderen kunnen helpen
 * Gebruik voor buiten het ziekenhuis na een operatie
 
+## Design challenge
+
+> Hoe kan een digitale oplossing, die ervoor zorgt dat mensen \(met name ouderen\) die risico lopen op functieverlies, helpen om meer te gaan bewegen, waarbij de familie/verzorgers een motiverende rol spelen in het opbouwen van vertrouwen in eigen kunnen.
+
 {% file src="../.gitbook/assets/designbrief\_v2.pdf" caption="Design brief V2" %}
 
