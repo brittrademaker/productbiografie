@@ -39,7 +39,5 @@ In de onderzoeksfase hebben wij veel onderzoek gedaan naar het probleem. Wij had
 
 {% page-ref page="onderzoeksmethodes/customer-journey.md" %}
 
-{% page-ref page="onderzoeksmethodes/risk-analysis.md" %}
-
 {% page-ref page="onderzoeksmethodes/programma-van-eisen.md" %}
 

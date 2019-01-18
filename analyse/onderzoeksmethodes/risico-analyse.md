@@ -1,13 +1,13 @@
 # Risico analyse
 
-De risico analyse maken we om de grooste risico's \(hopelijk\) te kunnen verhelpen of vermijden. Dit zijn voor een groot deel aannames. 
+Deze risico analyse maken we om de grooste risico's \(hopelijk\) te kunnen verhelpen of vermijden. Dit zijn voor een groot deel aannames. 
 
 <table>
   <thead>
     <tr>
       <th style="text-align:left">#</th>
       <th style="text-align:left">Risico</th>
-      <th style="text-align:left">In-schatting</th>
+      <th style="text-align:left">Inschatting</th>
       <th style="text-align:left">Weerlegging/oplossing</th>
     </tr>
   </thead>

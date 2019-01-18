@@ -8,7 +8,5 @@
 
 {% page-ref page="customer-journey.md" %}
 
-{% page-ref page="risk-analysis.md" %}
-
 {% page-ref page="programma-van-eisen.md" %}
 
