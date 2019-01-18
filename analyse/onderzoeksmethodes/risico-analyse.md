@@ -15,7 +15,7 @@ Deze risico analyse maken we om de grooste risico's \(hopelijk\) te kunnen verhe
     <tr>
       <td style="text-align:left">1</td>
       <td style="text-align:left">De app zal niet gebruikt worden.</td>
-      <td style="text-align:left">hoog</td>
+      <td style="text-align:left">Hoog</td>
       <td style="text-align:left">Onder de 65- tot 75-jarigen zei 64 procent van de ondervraagden actief
         te zijn geweest op sociale media in de drie maanden voorafgaand aan het
         onderzoek.</td>
