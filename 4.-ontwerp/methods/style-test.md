@@ -14,7 +14,7 @@ Nadat we hebben gekozen voor de gevulde iconen hebben we nogmaals een iteratie g
 
 ![](../../.gitbook/assets/schermafbeelding-2019-01-17-om-19.19.39.png)
 
-We kwamen hierdoor tot de conclusie, dat in deze gedetailleerde iconen het belangrijk is dat de buitenkant \(outline\) een groot contrast heeft met de binnenkant. Hierom hebben we gekozen voor een zwarte outline. 
+We kwamen hierdoor tot de conclusie, dat bij deze gedetailleerde iconen het belangrijk is dat de buitenkant \(outline\) een groot contrast heeft met de binnenkant. Hierom hebben we gekozen voor een zwarte outline. 
 
 ![](../../.gitbook/assets/4.0-stap-1-activiteit-toevoegen%20%283%29.png)
 
