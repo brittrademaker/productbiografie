@@ -10,7 +10,7 @@ In deze Product Biografie leggen wij ons proces uit van dit project. Het project
 | :--- | :--- |
 | Leerlingnummer | 500745149 500745149 |
 | Opdrachtgever | AMC |
-| Coach | Marjolein |
+| Coach | Marjolein en Marianne |
 | Datum  | 23 januari 2019 |
 | Versie | 1 |
 
