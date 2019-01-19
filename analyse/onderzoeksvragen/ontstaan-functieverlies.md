@@ -2,6 +2,21 @@
 
 Uit onderzoek van Plusonline \(2017\) is gebleken dat het goed is om zo snel mogelijk na een operatie weer in beweging te komen. Door de hele dag in bed te blijven liggen, neemt de spiermassa in rap tempo af, en daarmee ook de spierkracht en conditie \(A. Severs, Plusonline, 2017\). Na één dag in bed liggen ben je al 5 procent van je spierkracht kwijt. Na een week op bed kost het moeite om uit een stoel overeind te komen. Eenmaal verloren spiermassa kan niet snel weer worden opgebouwd, zeker niet als je al wat ouder bent.
 
+## Functieverlies onder ouderen
+
+* Een deel van de 65-plussers heeft na acute ziekenhuisopname te maken met nieuwe beperkingen in het dagelijks functioneren,gedefinieerd als ‘functieverlies’.
+* Functieverlies wil zeggen dat zij essentiële dagelijkse activiteiten als zichzelf wassen, aankleden en lopen niet meer zelfstandig kunnen uitvoeren.
+* Eenmaal verloren functies zijn moeilijk te herstellen.
+* Ouderen met functieverlies ervaren een lagere kwaliteit van leven en
+
+  hebben vaak permanent thuiszorg nodig.
+
+* Door tijdens het verblijf in het ziekenhuis systematisch in kaart te
+
+  brengen hoe de patiënt daarvóór functioneerde, de patiënt vroeg te mobiliseren en goede revalidatie- en nazorg te geven, kan functieverlies tegengegaan worden. Deze interventies worden echter nog lang niet altijd ingezet.
+
+* Tot nu toe lukt het maar bij een beperkt deel van de ouderen om functieverlies tegen te gaan. Belangrijke onderzoeksvragen zijn onder andere of alle ouderen kunnen herstellen van functieverlies, welke mechanismen de grootste impact hebben op functieverlies en hoe deze mechanismen te beïnvloeden zijn \(Buurman en de Rooij, 2015\).
+
 ## De grote boosdoener: bedrust
 
 Een deel van de 65-plussers krijgt na acute ziekenhuisopname te maken met beperkingen in het dagelijks functioneren, gedefinieerd als ‘functieverlies’ \(Buurman en de Rooij, 2015\). Gemiddeld lopen patiënten in het ziekenhuis maar 4-7 minuten per dag en liggen ze de rest van de tijd in bed. Bedrust is echter desastreus voor ouderen. Gezonde ouderen die tien dagen op bed blijven en goede voeding krijgen, verliezen bijvoorbeeld al 10-15 procent van hun spiermassa en komen met moeite overeind. Minder dan de dagelijkse norm van 30 minuten bewegen, draagt ook bij aan een verhoogd risico op functieverlies. Volgens Buurman en de Rooij is het eenmaal opgelopen functieverlies lastig te herstellen, vroegtijdig mobiliseren levert daarom belangrijke gezondheidswinst op.
