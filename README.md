@@ -10,9 +10,9 @@ In deze Product Biografie leggen wij ons proces uit van dit project. Het project
 
 | Auteurs | Britt Rademaker en Kirsten Propitius |
 | :--- | :--- |
-| Leerlingnummer | 500745149 500745149 |
+| Leerlingnummer | 500745149 500733962 |
 | Opdrachtgever | AMC |
 | Coach | Marjolein en Marianne |
-| Datum  | 23 januari 2019 |
+| Datum  | 21 januari 2019 |
 | Versie | 1 |
 
